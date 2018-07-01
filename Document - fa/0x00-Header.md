@@ -2,6 +2,5 @@
 
 ![OWASP LOGO](images/OWASP_logo.png)
 
-# Mobile Application Security Verification Standard
-
+# استاندارد تعیین امنیت برنامه کاربردی موبایل
 [date]
